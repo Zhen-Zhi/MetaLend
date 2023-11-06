@@ -25,7 +25,7 @@ const CampaignDetails = () => {
         <div className="flex md:w-[150px] w-full flex-wrap justify-between gap-[30px]">
           <CountBox title="Days Left" value="18" />
           <CountBox title={`Raised of 100`} value='35' />
-          <CountBox title="Total Backers" value='29' />
+          <CountBox title="Total Backers" value='1' />
         </div>
       </div>
 
@@ -39,7 +39,7 @@ const CampaignDetails = () => {
                 <img src={thirdweb} alt="user" className="w-[60%] h-[60%] object-contain"/>
               </div>
               <div>
-                <h4 className="font-epilogue font-semibold text-[14px] text-white break-all">Metahusky</h4>
+                <h4 className="font-epilogue font-semibold text-[14px] text-white break-all">Metalending.blc</h4>
                 <p className="mt-[4px] font-epilogue font-normal text-[12px] text-[#808191]">10 Campaigns</p>
               </div>
             </div>

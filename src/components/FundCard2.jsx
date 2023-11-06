@@ -22,8 +22,8 @@ const FundCard = ({ owner, title, description, target, deadline, amountCollected
         </div>
 
         <div className="block">
-          <h3 className="font-epilogue font-semibold text-[16px] text-white text-left leading-[26px] truncate">DeFi On Gnosis - Swap</h3>
-          <p className="mt-[5px] font-epilogue font-normal text-[#808191] text-left leading-[18px] truncate">Another desc</p>
+          <h3 className="font-epilogue font-semibold text-[16px] text-white text-left leading-[26px] truncate">DeFi On MultiChain - Swap</h3>
+          <p className="mt-[5px] font-epilogue font-normal text-[#808191] text-left leading-[18px] truncate">Swap without worry</p>
         </div>
 
         <div className="flex justify-between flex-wrap mt-[15px] gap-2">
@@ -53,7 +53,7 @@ const FundCard = ({ owner, title, description, target, deadline, amountCollected
           <div className="w-[30px] h-[30px] rounded-full flex justify-center items-center bg-[#13131a]">
             <img src={thirdweb} alt="user" className="w-1/2 h-1/2 object-contain"/>
           </div>
-          <p className="flex-1 font-epilogue font-normal text-[12px] text-[#808191] truncate">by <span className="text-[#b2b3bd]">MetaHusky</span></p>
+          <p className="flex-1 font-epilogue font-normal text-[12px] text-[#808191] truncate">by <span className="text-[#b2b3bd]">Metalending.blc</span></p>
         </div>
       </div>
     </div>
